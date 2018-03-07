@@ -1,8 +1,6 @@
 package br.pro.hashi.ensino.desagil.tequilada;
 import java.io.*;
 
-
-
 public class Reder_labirinto {
 	public static void main (String[]args){
 		try{
